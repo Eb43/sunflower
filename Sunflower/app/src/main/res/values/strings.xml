@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunflower</string>
+    <string name="start_again">Relaunch animation</string>
+    <string name="textgreeting">Some text</string>
+</resources>
