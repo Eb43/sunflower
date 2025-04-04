@@ -1,7 +1,7 @@
 # Sunflower
 Animated drawing of Sunflower on Android smartphone
 
-  <img alt="android battery voltage display" src="https://raw.githubusercontent.com/Eb43/sunflower/main/sunflower-animated.gif" style="width: 300px; object-fit: none; object-position: 1% 1%"/>
+  <img alt="sunflower animation on android" src="https://raw.githubusercontent.com/Eb43/sunflower/main/sunflower-animated.gif" style="width: 300px; object-fit: none; object-position: 1% 1%"/>
 
   The Sunflower app is an application that displays an animated sunflower on the screen. The sunflower's petals, leaves, and stem undergo smooth transitions, creating a dynamic and aesthetically pleasing effect. Additionally, the supportive text is shown. 
   
