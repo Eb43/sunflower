@@ -7,4 +7,4 @@ Animated drawing of Sunflower on Android smartphone
   
   The animation runs in a loop when user presses the button.
 
-  The app does not simply display a premade GIF animation file. The app animates static images of the sunflower parts using math functions. 
+  The app does not simply display a premade GIF animation file as in the [GifandVideoPlaying](https://github.com/Eb43/GifandVideoPlaying/blob/main/README.md) app. The Sunflower app animates static images of the sunflower parts using math functions. 
